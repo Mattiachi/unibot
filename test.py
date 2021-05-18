@@ -1,12 +1,11 @@
 '''
 Author: Mattia&Matteo<3
-Program: bot.py
+Program: test.py
 Date: Apr. 16 2021
-Version: 3.0, python3
+Version: 2.0, python3
 '''
 
-
-test = 0 #If zero does not run as test script
+test = 1 #If one runs as test script
 
 import telepot,re, schedule
 from datetime import datetime,timedelta
