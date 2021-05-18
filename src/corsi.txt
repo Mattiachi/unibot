@@ -1,0 +1,1820 @@
+Corsi Totali: 244
+
+Amministrazione e gestione d'impresa [LM] - 8842 
+https://corsi.unibo.it/magistrale/aegi
+magistrale/aegi
+2
+000-000 | 9229 - Percorso generico | 
+A01-000 | AMMINISTRAZIONE E CONTROLLO D’IMPRESA | 
+A02-000 | GESTIONE D’IMPRESA | 
+A03-000 | SERVICE MANAGEMENT | 
+
+
+Business and economics [L] - 8965 
+https://corsi.unibo.it/1cycle/CLaBE
+1cycle/CLaBE
+3
+000-000 | 8965 - Percorso generico | 
+
+
+Digital transformation management [LM] - 5815 
+https://corsi.unibo.it/2cycle/DigitalTransformationManagement
+2cycle/DigitalTransformationManagement
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Direzione aziendale [LM] - 0897 
+https://corsi.unibo.it/magistrale/DirezioneAziendale
+magistrale/DirezioneAziendale
+2
+755-000 | DIREZIONE AZIENDALE | 
+756-000 | INTERNATIONAL MANAGEMENT | 
+
+
+Economia aziendale [L] - 8871 
+https://corsi.unibo.it/laurea/EconomiaAziendale
+laurea/EconomiaAziendale
+3
+000-000 | 8871 - Percorso generico | 
+
+
+Economia del turismo [L] - 8847 
+https://corsi.unibo.it/laurea/clet
+laurea/clet
+3
+000-000 | 8847 - Percorso generico | 
+A25-000 | INTERNATIONAL TOURISM AND LEISURE INDUSTRIES | 
+
+
+Economia dell'impresa [L] - 8848 
+https://corsi.unibo.it/laurea/clei
+laurea/clei
+3
+B69-000 | PERCORSO MANAGERIALE | 
+B68-000 | PERCORSO PROFESSIONALE | 
+
+
+Economia e commercio [LM] - 0905 
+https://corsi.unibo.it/magistrale/EconomiaCommercio
+magistrale/EconomiaCommercio
+2
+000-000 | 0905 - Percorso generico | 
+
+
+Economia e commercio [L] - 9202 
+https://corsi.unibo.it/laurea/EconomiaCommercio
+laurea/EconomiaCommercio
+3
+761-000 | CURRICULUM ECONOMIA E COMMERCIO | 
+A59-000 | ECONOMIA E MANAGEMENT | 
+A60-000 | MANAGEMENT | 
+
+
+Economia e diritto [LM] - 9221 
+https://corsi.unibo.it/magistrale/EconomiaDiritto
+magistrale/EconomiaDiritto
+2
+000-000 | 9221 - Percorso generico | 
+B08-000 | CURRICULUM LAW AND ECONOMICS OF INSURANCE AND FINANCE | 
+
+
+Economia e management [LM] - 9203 
+https://corsi.unibo.it/magistrale/EconomiaManagement
+magistrale/EconomiaManagement
+2
+509-000 | CURRICULUM BUSINESS AND ADMINISTRATION | 
+A59-000 | ECONOMIA E MANAGEMENT | 
+A61-000 | FOOD SYSTEM MANAGEMENT | 
+
+
+Economia e politica economica [LM] - 8420 
+https://corsi.unibo.it/magistrale/EconomiaPoliticaEconomica
+magistrale/EconomiaPoliticaEconomica
+2
+979-000 | ECONOMIA E POLITICA ECONOMICA | 
+980-000 | HEALTH ECONOMICS & MANAGEMENT | 
+C01-000 | HEALTH ECONOMICS, MANAGEMENT AND POLICY | 
+
+
+Economia e professione [LM] - 0900 
+https://corsi.unibo.it/magistrale/EconomiaProfessione
+magistrale/EconomiaProfessione
+2
+000-000 | 0900 - Percorso generico | 
+
+
+Economia, mercati e istituzioni [L] - 8038 
+https://corsi.unibo.it/laurea/EconomiaMercatiIstituzioni
+laurea/EconomiaMercatiIstituzioni
+3
+000-000 | 8038 - Percorso generico | 
+
+
+Economics [LM] - 8408 
+https://corsi.unibo.it/2cycle/lmec
+2cycle/lmec
+2
+000-000 | 8408 - Percorso generico | 
+
+
+Economics and finance  [L] - 8835 
+https://corsi.unibo.it/1cycle/EconomicsFinance
+1cycle/EconomicsFinance
+3
+000-000 | 8835 - Percorso generico | 
+
+
+Economics, politics and social sciences [L] - 5819 
+https://corsi.unibo.it/1cycle/EconomicsPoliticsSocialSciences
+1cycle/EconomicsPoliticsSocialSciences
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Finanza, intermediari e mercati [LM] - 0901 
+https://corsi.unibo.it/magistrale/FinanzaIntermediariMercati
+magistrale/FinanzaIntermediariMercati
+2
+000-000 | 0901 - Percorso generico | 
+
+
+Health economics and management  [LM] - 8880 
+https://corsi.unibo.it/2cycle/euHealthEconomicsManagement
+2cycle/euHealthEconomicsManagement
+2
+000-000 | 8880 - Percorso generico | 
+
+
+Innovation and organization of culture and the arts [LM] - 0902 
+https://corsi.unibo.it/2cycle/gioca
+2cycle/gioca
+2
+000-000 | 0902 - Percorso generico | 
+
+
+International politics and economics [LM] - 5702 
+https://corsi.unibo.it/2cycle/InternationalPoliticsEconomics
+2cycle/InternationalPoliticsEconomics
+1
+000-000 | 5702 - Percorso generico | 
+
+
+Law, economics and governance [LM] - 5811 
+https://corsi.unibo.it/2cycle/LawEconomicsGovernance
+2cycle/LawEconomicsGovernance
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Management dell'economia sociale [LM] - 8843 
+https://corsi.unibo.it/magistrale/EconomiaSociale
+magistrale/EconomiaSociale
+2
+000-000 | 8843 - Percorso generico | 
+
+
+Management e marketing [L] - 8406 
+https://corsi.unibo.it/laurea/ManagementMarketing
+laurea/ManagementMarketing
+3
+000-000 | 8406 - Percorso generico | 
+B71-000 | GESTIONE E INNOVAZIONE D’IMPRESA | 
+
+
+Resource economics and sustainable development  [LM] - 8839 
+https://corsi.unibo.it/2cycle/ResourceEconomicsSustainableDevelopment
+2cycle/ResourceEconomicsSustainableDevelopment
+2
+000-000 | 8839 - Percorso generico | 
+
+
+Tourism economics and management  [LM] - 8609 
+https://corsi.unibo.it/2cycle/team
+2cycle/team
+2
+000-000 | 8609 - Percorso generico | 
+
+
+Bioinformatics [LM] - 8020 
+https://corsi.unibo.it/2cycle/Bioinformatics
+2cycle/Bioinformatics
+2
+000-000 | 8020 - Percorso generico | 
+
+
+Biologia della salute [LM] - 5729 
+https://corsi.unibo.it/magistrale/BiologiaSalute-Imola
+magistrale/BiologiaSalute-Imola
+1
+302-000 | NUTRIZIONALE | 
+
+
+Biologia della salute [LM] - 9212 
+https://corsi.unibo.it/magistrale/BiologiaSalute
+magistrale/BiologiaSalute
+2
+000-000 | 9212 - Percorso generico | 
+B72-000 | BIOSANITARIO-FORENSE | 
+
+
+Biotecnologie [L] - 8005 
+https://corsi.unibo.it/laurea/Biotecnologie
+laurea/Biotecnologie
+3
+000-000 | 8005 - Percorso generico | 
+
+
+Biotecnologie molecolari e industriali [LM] - 9213 
+https://corsi.unibo.it/magistrale/BiotecnologieMolecolarieIndustriali
+magistrale/BiotecnologieMolecolarieIndustriali
+2
+000-000 | 9213 - Percorso generico | 
+
+
+Chimica e tecnologia farmaceutiche [LMCU] - 9262 
+https://corsi.unibo.it/magistralecu/CTF
+magistralecu/CTF
+5
+000-000 | 9262 - Percorso generico | 
+
+
+Farmacia [LMCU] - 9219 
+https://corsi.unibo.it/magistralecu/Farmacia-Bologna
+magistralecu/Farmacia-Bologna
+5
+000-000 | 9219 - Percorso generico | 
+
+
+Genomics [L] - 9211 
+https://corsi.unibo.it/1cycle/Genomics
+1cycle/Genomics
+3
+000-000 | 9211 - Percorso generico | 
+
+
+Molecular and cell biology [LM] - 5825 
+https://corsi.unibo.it/magistrale/BiologiaMolecolareCellulare
+magistrale/BiologiaMolecolareCellulare
+2
+000-000 | 8021 - Percorso generico | 
+
+
+Pharmaceutical biotechnology [LM] - 9068 
+https://corsi.unibo.it/magistrale/PharmaceuticalBiotechnology
+magistrale/PharmaceuticalBiotechnology
+2
+000-000 | 9068 - Percorso generico | 
+
+
+Pharmacy [LMCU] - 9078 
+https://corsi.unibo.it/magistralecu/Pharmacy-Rimini
+magistralecu/Pharmacy-Rimini
+5
+000-000 | 9078 - Percorso generico | 
+
+
+Scienze farmaceutiche applicate [L] - 8518 
+https://corsi.unibo.it/laurea/ScienzeFarmaceutiche
+laurea/ScienzeFarmaceutiche
+3
+775-000 | TECNICHE ERBORISTICHE | 
+777-000 | TOSSICOLOGIA AMBIENTALE | 
+
+
+Consulente del lavoro e delle relazioni aziendali [L] - 9230 
+https://corsi.unibo.it/laurea/ConsulenteLavoroRelazioniAziendali
+laurea/ConsulenteLavoroRelazioniAziendali
+3
+000-000 | 9230 - Percorso generico | 
+
+
+Giurisprudenza [LMCU] - 9232 
+https://corsi.unibo.it/magistralecu/Giurisprudenza-Bologna
+magistralecu/Giurisprudenza-Bologna
+5
+000-000 | 9232 - Percorso generico | 
+
+
+Giurisprudenza [LMCU] - 9233 
+https://corsi.unibo.it/magistralecu/Giurisprudenza-Ravenna
+magistralecu/Giurisprudenza-Ravenna
+5
+000-000 | 9233 - Percorso generico | 
+
+
+Giurista per le imprese e per la pubblica amministrazione [L] - 9242 
+https://corsi.unibo.it/laurea/GiuristaImpresa
+laurea/GiuristaImpresa
+3
+B16-000 | AMMINISTRAZIONE E GOVERNO DEL TERRITORIO | 
+B09-000 | CONTRATTI E IMPRESA | 
+B18-000 | FOOD, SPORT E WELLNESS | 
+B17-000 | TRASPORTI, LOGISTICA E SISTEMI PORTUALI | 
+
+
+Legal studies [LM] - 9062 
+https://corsi.unibo.it/2cycle/legal-studies
+2cycle/legal-studies
+2
+000-000 | 9062 - Percorso generico | 
+
+
+Advanced automotive electronic engineering [LM] - 9238 
+https://corsi.unibo.it/2cycle/AutomotiveElectronicEngineering
+2cycle/AutomotiveElectronicEngineering
+2
+000-000 | 9238 - Percorso generico | 
+
+
+Advanced automotive engineering [LM] - 9239 
+https://corsi.unibo.it/2cycle/AutomotiveEngineering
+2cycle/AutomotiveEngineering
+2
+B02-000 | ADVANCED MOTORCYCLE ENGINEERING | 
+B01-000 | ADVANCED POWERTRAIN | 
+B03-000 | ADVANCED SPORTSCAR MANUFACTURING | 
+
+
+Advanced design [LM] - 9256 
+https://corsi.unibo.it/magistrale/AdvancedDesign
+magistrale/AdvancedDesign
+2
+B14-000 | ADVANCED DESIGN DEI PRODOTTI | 
+B15-000 | ADVANCED DESIGN DEI SERVIZI | 
+
+
+Aerospace engineering [LM] - 5723 
+https://corsi.unibo.it/2cycle/AerospaceEngineering
+2cycle/AerospaceEngineering
+2
+B79-000 | CURRICULUM AERONAUTICS | 
+B80-000 | CURRICULUM SPACE | 
+
+
+Architecture and creative practices for the city and landscape [LM] - 5809 
+https://corsi.unibo.it/2cycle/ArchitectureCreativePractices
+2cycle/ArchitectureCreativePractices
+0
+
+
+Architettura [LMCU] - 9265 
+https://corsi.unibo.it/magistralecu/architettura
+magistralecu/architettura
+5
+000-000 | 9265 - Percorso generico | 
+
+
+Architettura-ingegneria [L] - 5695 
+https://corsi.unibo.it/laurea/ArchitetturaIngegneria
+laurea/ArchitetturaIngegneria
+1
+000-000 | 5695 - Percorso generico | 
+
+
+Artificial intelligence [LM] - 9063 
+https://corsi.unibo.it/2cycle/artificial-intelligence
+2cycle/artificial-intelligence
+2
+000-000 | 9063 - Percorso generico | 
+
+
+Automation engineering  [LM] - 8891 
+https://corsi.unibo.it/2cycle/AutomationEngineering
+2cycle/AutomationEngineering
+2
+000-000 | Curriculum AUTOMATION ENGINEERING / INGEGNERIA DELL’AUTOMAZIONE | 
+
+
+Biomedical engineering [LM] - 9266 
+https://corsi.unibo.it/magistrale/IngegneriaBiomedica
+magistrale/IngegneriaBiomedica
+2
+B89-000 | BIOENGINEERING OF HUMAN MOVEMENT | 
+B87-000 | BIOMEDICAL ENGINEERING FOR NEUROSCIENCE | 
+B88-000 | INNOVATIVE TECHNOLOGIES IN DIAGNOSTICS AND THERAPY | 
+
+
+Civil engineering [LM] - 8895 
+https://corsi.unibo.it/2cycle/CivilEngineering
+2cycle/CivilEngineering
+2
+B66-000 | CLIMATE CHANGE ADAPTATION | 
+A29-000 | INFRASTRUCTURE DESIGN IN RIVER BASINS | 
+A30-000 | OFFSHORE ENGINEERING | 
+A28-000 | STRUCTURAL ENGINEERING | 
+I01-000 | SUSTAINABLE MOBILITY IN URBAN AREAS | 
+
+
+Design del prodotto industriale [L] - 8182 
+https://corsi.unibo.it/laurea/DesignProdottoIndustriale
+laurea/DesignProdottoIndustriale
+3
+000-000 | 8182 - Percorso generico | 
+
+
+Electric vehicle engineering [LM] - 5699 
+https://corsi.unibo.it/2cycle/ElectricVehicleEngineering
+2cycle/ElectricVehicleEngineering
+1
+000-000 | 5699 - Percorso generico | 
+
+
+Ingegneria aerospaziale [L] - 9234 
+https://corsi.unibo.it/laurea/IngegneriaAerospaziale
+laurea/IngegneriaAerospaziale
+3
+000-000 | 9234 - Percorso generico | 
+
+
+Ingegneria biomedica [L] - 9082 
+https://corsi.unibo.it/laurea/IngegneriaBiomedica
+laurea/IngegneriaBiomedica
+3
+000-000 | 9082 - Percorso generico | 
+
+
+Ingegneria chimica e biochimica [L] - 8887 
+https://corsi.unibo.it/laurea/IngegneriaChimicaBiochimica
+laurea/IngegneriaChimicaBiochimica
+3
+000-000 | 8887 - Percorso generico | 
+
+
+Ingegneria chimica e di processo [LM] - 8896 
+https://corsi.unibo.it/magistrale/IngegneriaChimicaProcesso
+magistrale/IngegneriaChimicaProcesso
+2
+760-000 | INGEGNERIA ALIMENTARE | 
+973-000 | INGEGNERIA DI PROCESSO | 
+598-000 | SUSTAINABLE TECHNOLOGIES AND BIOTECHNOLOGIES FOR ENERGY AND MATERIALS | 
+
+
+Ingegneria civile [LM] - 0930 
+https://corsi.unibo.it/magistrale/civile
+magistrale/civile
+2
+957-000 | CURRICULUM: COSTRUZIONI PER L’EDILIZIA E LE INFRASTRUTTURE | 
+958-000 | CURRICULUM: IDRAULICA E TERRITORIO | 
+862-000 | CURRICULUM: INFRASTRUTTURE VIARIE E TRASPORTI | 
+856-000 | CURRICULUM: STRUTTURE | 
+
+
+Ingegneria civile [L] - 8888 
+https://corsi.unibo.it/laurea/IngegneriaCivile
+laurea/IngegneriaCivile
+3
+000-000 | 8888 - Percorso generico | 
+
+
+Ingegneria dei processi e dei sistemi edilizi [LM] - 8829 
+https://corsi.unibo.it/magistrale/IngegneriaSistemiProcessiEdilizi
+magistrale/IngegneriaSistemiProcessiEdilizi
+2
+000-000 | 8829 - Percorso generico | 
+597-000 | GESTIONE DEL PROCESSO EDILIZIO NEL RECUPERO DI EDIFICI STORICI | 
+640-000 | HISTORIC BUILDINGS REHABILITATION | 
+
+
+Ingegneria dell'automazione [L] - 9217 
+https://corsi.unibo.it/laurea/IngegneriaAutomazione
+laurea/IngegneriaAutomazione
+3
+740-000 | AUTOMATION ENGINEERING | 
+739-000 | SISTEMI PER L'AUTOMAZIONE | 
+
+
+Ingegneria dell'energia elettrica [L] - 5822 
+https://corsi.unibo.it/laurea/elettrica
+laurea/elettrica
+3
+000-000 | 9255 - Percorso generico | 
+
+
+Ingegneria dell'energia elettrica [LM] - 9066 
+https://corsi.unibo.it/magistrale/elettrica
+magistrale/elettrica
+2
+A27-000 | ELECTRICAL ENGINEERING | 
+A26-000 | INGEGNERIA DELL’ENERGIA ELETTRICA | 
+
+
+Ingegneria e scienze informatiche [LM] - 8614 
+https://corsi.unibo.it/magistrale/IngegneriaScienzeInformatiche
+magistrale/IngegneriaScienzeInformatiche
+2
+000-000 | 8614 - Percorso generico | 
+
+
+Ingegneria e scienze informatiche [L] - 8615 
+https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche
+laurea/IngegneriaScienzeInformatiche
+3
+000-000 | 8615 - Percorso generico | 
+
+
+Ingegneria edile [L] - 9199 
+https://corsi.unibo.it/laurea/IngegneriaEdile
+laurea/IngegneriaEdile
+3
+000-000 | 9199 - Percorso generico | 
+
+
+Ingegneria edile-architettura [LM] - 5697 
+https://corsi.unibo.it/2cycle/ArchitectureEngineering
+2cycle/ArchitectureEngineering
+1
+B78-000 | ARCHITECTURAL ENGINEERING | 
+
+
+Ingegneria elettronica [LM] - 0934 
+https://corsi.unibo.it/magistrale/elettronica
+magistrale/elettronica
+2
+A76-000 | ELECTRONIC TECHNOLOGIES FOR BIG-DATA AND INTERNET OF THINGS | 
+B70-000 | ELECTRONICS FOR INTELLIGENT SYSTEMS, BIG-DATA AND INTERNET OF THINGS | 
+A75-000 | INGEGNERIA ELETTRONICA | 
+
+
+Ingegneria elettronica [L] - 5834 
+https://corsi.unibo.it/laurea/IngegneriaElettronicaEnergiaInformazione
+laurea/IngegneriaElettronicaEnergiaInformazione
+3
+000-000 | 8767 - Percorso generico | 
+
+
+Ingegneria elettronica e telecomunicazioni [L] - 9065 
+https://corsi.unibo.it/laurea/ElettronicaTelecomunicazioni
+laurea/ElettronicaTelecomunicazioni
+3
+995-000 | CURRICULUM: ELETTRONICA | 
+996-000 | CURRICULUM: TELECOMUNICAZIONI | 
+
+
+Ingegneria elettronica e telecomunicazioni per l'energia [LM] - 8770 
+https://corsi.unibo.it/magistrale/IngegneriaElettronicaTelecomunicazioniEnergia
+magistrale/IngegneriaElettronicaTelecomunicazioniEnergia
+2
+000-000 | 8770 - Percorso generico | 
+A97-000 | CURRICULUM INFORMATION AND COMMUNICATION TECHNOLOGY FOR CLIMATE | 
+
+
+Ingegneria energetica [L] - 0924 
+https://corsi.unibo.it/laurea/IngegneriaEnergetica
+laurea/IngegneriaEnergetica
+3
+B12-000 | APPLICAZIONI INDUSTRIALI E BIOMEDICALI DELL'ENERGIA | 
+B13-000 | FONTI ENERGETICHE TRADIZIONALI E RINNOVABILI | 
+
+
+Ingegneria energetica [LM] - 0935 
+https://corsi.unibo.it/magistrale/IngegneriaEnergetica
+magistrale/IngegneriaEnergetica
+2
+000-000 | 0935 - Percorso generico | 
+
+
+Ingegneria gestionale [L] - 0925 
+https://corsi.unibo.it/laurea/IngegneriaGestionale
+laurea/IngegneriaGestionale
+3
+000-000 | 0925 - Percorso generico | 
+
+
+Ingegneria gestionale [LM] - 0936 
+https://corsi.unibo.it/magistrale/IngegneriaGestionale
+magistrale/IngegneriaGestionale
+2
+000-000 | 0936 - Percorso generico | 
+
+
+Ingegneria informatica [LM] - 5826 
+https://corsi.unibo.it/magistrale/ingegneriainformatica
+magistrale/ingegneriainformatica
+2
+000-000 | 0937 - Percorso generico | 
+
+
+Ingegneria informatica [L] - 9254 
+https://corsi.unibo.it/laurea/IngegneriaInformatica
+laurea/IngegneriaInformatica
+3
+000-000 | 9254 - Percorso generico | 
+
+
+Ingegneria meccanica [L] - 0927 
+https://corsi.unibo.it/laurea/IngegneriaMeccanica-Bologna
+laurea/IngegneriaMeccanica-Bologna
+3
+000-000 | 0927 - Percorso generico | 
+
+
+Ingegneria meccanica [L] - 0949 
+https://corsi.unibo.it/laurea/IngegneriaMeccanicaForli
+laurea/IngegneriaMeccanicaForli
+3
+000-000 | 0949 - Percorso generico | 
+
+
+Ingegneria meccanica [LM] - 5724 
+https://corsi.unibo.it/magistrale/IngegneriaMeccanica-Bologna
+magistrale/IngegneriaMeccanica-Bologna
+2
+B81-000 | BIOMECCANICA | 
+913-000 | IMPIANTI INDUSTRIALI | 
+912-000 | MACCHINE A FLUIDO | 
+B82-000 | MECCANICA DELL’AUTOMAZIONE E ROBOTICA | 
+B83-000 | MOTOVEICOLO | 
+914-000 | PROGETTAZIONE MECCANICA E MODELLAZIONE | 
+
+
+Ingegneria meccanica [LM] - 8771 
+https://corsi.unibo.it/magistrale/IngegneriaMeccanica-Forli
+magistrale/IngegneriaMeccanica-Forli
+2
+000-000 | 8771 - Percorso generico | 
+
+
+Ingegneria per l'ambiente e il territorio [LM] - 8894 
+https://corsi.unibo.it/magistrale/IngegneriAmbienteTerritorio
+magistrale/IngegneriAmbienteTerritorio
+2
+B66-000 | CLIMATE CHANGE ADAPTATION | 
+976-000 | EARTH RESOURCES ENGINEERING | 
+975-000 | INGEGNERIA PER L'AMBIENTE E IL TERRITORIO | 
+
+
+Ingegneria per l'ambiente e il territorio [L] - 9198 
+https://corsi.unibo.it/laurea/IngegneriAmbienTerritorio
+laurea/IngegneriAmbienTerritorio
+3
+000-000 | 9198 - Percorso generico | 
+
+
+Meccatronica [L] - 5818 
+https://corsi.unibo.it/laurea/meccatronica
+laurea/meccatronica
+0
+
+
+Offshore engineering [LM] - 9249 
+https://corsi.unibo.it/2cycle/OffshoreEngineering
+2cycle/OffshoreEngineering
+2
+B30-000 | ENVIRONMENTAL OFFSHORE ENGINEERING | 
+B29-000 | OFFSHORE ENERGY TECHNOLOGIES | 
+B31-000 | OFFSHORE STRUCTURES | 
+
+
+Tecniche per l'edilizia e il territorio [L] - 5817 
+https://corsi.unibo.it/laurea/TecnicheEdiliziaTerritorio
+laurea/TecnicheEdiliziaTerritorio
+0
+
+
+Tecnologie dei sistemi informatici [L] - 5816 
+https://corsi.unibo.it/laurea/TecnologieSistemiInformatici
+laurea/TecnologieSistemiInformatici
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Telecommunications engineering [LM] - 9205 
+https://corsi.unibo.it/2cycle/TelecommunicationsEngineering
+2cycle/TelecommunicationsEngineering
+2
+000-000 | 9205 - Percorso generico | 
+
+
+Interpretazione [LM] - 8060 
+https://corsi.unibo.it/magistrale/Interpretazione
+magistrale/Interpretazione
+2
+000-000 | 8060 - Percorso generico | 
+
+
+Language, society and communication  [LM] - 8874 
+https://corsi.unibo.it/2cycle/LanguageSocietyCommunication
+2cycle/LanguageSocietyCommunication
+2
+000-000 | 8874 - Percorso generico | 
+
+
+Letterature moderne, comparate e postcoloniali [LM] - 0981 
+https://corsi.unibo.it/magistrale/LetteratureModerneComparatePostcoloniali
+magistrale/LetteratureModerneComparatePostcoloniali
+2
+000-000 | 0981 - Percorso generico | 
+736-000 | CURRICULUM WOMEN'S AND GENDER STUDIES - STUDI DI GENERE E DELLE DONNE (GEMMA) | 
+946-000 | LETTERATURE MODERNE, COMPARATE E POSTCOLONIALI | 
+
+
+Lingua e cultura italiane per stranieri [LM] - 0983 
+https://corsi.unibo.it/magistrale/LinguaCulturaItalianePerStranieri
+magistrale/LinguaCulturaItalianePerStranieri
+2
+000-000 | 0983 - Percorso generico | 
+
+
+Lingue e letterature straniere [L] - 0979 
+https://corsi.unibo.it/laurea/LingueLetteratureStraniere
+laurea/LingueLetteratureStraniere
+3
+000-000 | 0979 - Percorso generico | 
+
+
+Lingue, mercati e culture dell'Asia e dell'Africa mediterranea [L] - 9264 
+https://corsi.unibo.it/laurea/LingueMercatiCultureAsia
+laurea/LingueMercatiCultureAsia
+3
+000-000 | 9264 - Percorso generico | 
+
+
+Mediazione linguistica interculturale [L] - 8059 
+https://corsi.unibo.it/laurea/MediazioneLinguisticaInterculturale
+laurea/MediazioneLinguisticaInterculturale
+3
+000-000 | 8059 - Percorso generico | 
+
+
+Specialized translation [LM] - 9174 
+https://corsi.unibo.it/2cycle/SpecializedTranslation
+2cycle/SpecializedTranslation
+2
+000-000 | 9174 - Percorso generico | 
+
+
+Dietistica (abilitante alla professione sanitaria di dietista) [L] - 8470 
+https://corsi.unibo.it/laurea/Dietistica
+laurea/Dietistica
+3
+000-000 | 8470 - Percorso generico | 
+
+
+Educazione professionale (abilitante alla professione sanitaria di educatore professionale) [L] - 8477 
+https://corsi.unibo.it/laurea/EducazioneProfessionale
+laurea/EducazioneProfessionale
+3
+000-000 | 8477 - Percorso generico | 
+
+
+Fisioterapia (abilitante alla professione sanitaria di fisioterapista) [L] - 8476 
+https://corsi.unibo.it/laurea/fisioterapia
+laurea/fisioterapia
+3
+000-000 | 8476 - Percorso generico | 
+
+
+Igiene dentale (abilitante alla professione sanitaria di igienista dentale) [L] - 8481 
+https://corsi.unibo.it/laurea/IgieneDentale
+laurea/IgieneDentale
+3
+000-000 | 8481 - Percorso generico | 
+
+
+Infermieristica (abilitante alla professione sanitaria di infermiere) [L] - 8473 
+https://corsi.unibo.it/laurea/Infermieristica
+laurea/Infermieristica
+3
+000-000 | 8473 - Percorso generico | 
+
+
+Infermieristica (abilitante alla professione sanitaria di infermiere) [L] - 8474 
+https://corsi.unibo.it/laurea/Infermieristica-Ravenna
+laurea/Infermieristica-Ravenna
+3
+000-000 | 8474 - Percorso generico | 
+
+
+Infermieristica (abilitante alla professione sanitaria di infermiere) [L] - 8475 
+https://corsi.unibo.it/laurea/Infermieristica-Rimini
+laurea/Infermieristica-Rimini
+3
+000-000 | 8475 - Percorso generico | 
+
+
+Logopedia (abilitante alla professione sanitaria di logopedista) [L] - 9080 
+https://corsi.unibo.it/laurea/Logopedia
+laurea/Logopedia
+3
+000-000 | 9080 - Percorso generico | 
+
+
+Medical biotechnology [LM] - 9081 
+https://corsi.unibo.it/magistrale/MedicalBiotechnology
+magistrale/MedicalBiotechnology
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Medicina e chirurgia [LMCU] - 5708 
+https://corsi.unibo.it/magistralecu/MedicinaChirurgia-Ravenna
+magistralecu/MedicinaChirurgia-Ravenna
+1
+000-000 | 5708 - Percorso generico | 
+
+
+Medicina e chirurgia [LMCU] - 5709 
+https://corsi.unibo.it/magistralecu/MedicinaChirurgia-Forli
+magistralecu/MedicinaChirurgia-Forli
+1
+000-000 | 5709 - Percorso generico | 
+
+
+Medicina e chirurgia [LMCU] - 8415 
+https://corsi.unibo.it/magistralecu/MedicinaChirurgia
+magistralecu/MedicinaChirurgia
+6
+000-000 | 8415 - Percorso generico | 
+
+
+Medicine and surgery [LMCU] - 9210 
+https://corsi.unibo.it/singlecycle/MedicineAndSurgery
+singlecycle/MedicineAndSurgery
+4
+000-000 | 9210 - Percorso generico | 
+
+
+Odontoiatria e protesi dentaria [LMCU] - 8204 
+https://corsi.unibo.it/magistralecu/Odontoiatria
+magistralecu/Odontoiatria
+6
+000-000 | 8204 - Percorso generico | 
+
+
+Ostetricia (abilitante alla professione sanitaria di ostetrica [L] - 9201 
+https://corsi.unibo.it/laurea/ostetricia
+laurea/ostetricia
+3
+000-000 | 9201 - Percorso generico | 
+
+
+Podologia (abilitante alla professione sanitaria di podologo) [L] - 8479 
+https://corsi.unibo.it/laurea/Podologia
+laurea/Podologia
+3
+000-000 | 8479 - Percorso generico | 
+
+
+Scienze delle professioni sanitarie della prevenzione [LM] - 8878 
+https://corsi.unibo.it/magistrale/ScienzePrevenzione
+magistrale/ScienzePrevenzione
+3
+000-000 | 8878 - Percorso generico | 
+
+
+Scienze infermieristiche e ostetriche [LM] - 8488 
+https://corsi.unibo.it/magistrale/ScienzeInfermieristicheOstetriche
+magistrale/ScienzeInfermieristicheOstetriche
+2
+000-000 | 8488 - Percorso generico | 
+
+
+Tecniche della prevenzione nell'ambiente e nei luoghi di lavoro (abilitante alla professione sanitaria di tecnico della prevenzione nell'ambiente e nei luoghi di lavoro) [L] - 8487 
+https://corsi.unibo.it/laurea/PrevenzioneAmbienteLavoro
+laurea/PrevenzioneAmbienteLavoro
+3
+000-000 | 8487 - Percorso generico | 
+
+
+Tecniche di laboratorio biomedico (abilitante alla professione sanitaria di tecnico di laboratorio biomedico) [L] - 8484 
+https://corsi.unibo.it/laurea/tlb-bologna
+laurea/tlb-bologna
+3
+000-000 | 8484 - Percorso generico | 
+
+
+Tecniche di neurofisiopatologia (abilitante alla professione sanitaria di tecnico di neurofisiopatologia) [L] - 8482 
+https://corsi.unibo.it/laurea/Neurofisiopatologia
+laurea/Neurofisiopatologia
+3
+000-000 | 8482 - Percorso generico | 
+
+
+Tecniche di radiologia medica, per immagini e radioterapia (abilitante alla professione sanitaria di tecnico di radiologia medica) [L] - 9079 
+https://corsi.unibo.it/laurea/TecnicheRadiologiaMedica
+laurea/TecnicheRadiologiaMedica
+3
+000-000 | 9079 - Percorso generico | 
+
+
+Tecniche ortopediche (abilitante alla professione sanitaria di tecnico ortopedico) [L] - 8483 
+https://corsi.unibo.it/laurea/TecnicheOrtopediche
+laurea/TecnicheOrtopediche
+3
+000-000 | 8483 - Percorso generico | 
+
+
+Acquacoltura e igiene delle produzioni ittiche [L] - 8834 
+https://corsi.unibo.it/laurea/acquacoltura
+laurea/acquacoltura
+3
+000-000 | 8834 - Percorso generico | 
+
+
+Biotecnologie animali [LM] - 8522 
+https://corsi.unibo.it/magistrale/BiotecnologieAnimali
+magistrale/BiotecnologieAnimali
+2
+000-000 | 8522 - Percorso generico | 
+
+
+Food animal metabolism and management in the circular economy [LM] - 5814 
+https://corsi.unibo.it/2cycle/FoodAnimalMetabolismManagement
+2cycle/FoodAnimalMetabolismManagement
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Medicina veterinaria [LMCU] - 8617 
+https://corsi.unibo.it/magistralecu/MedicinaVeterinaria
+magistralecu/MedicinaVeterinaria
+5
+000-000 | 8617 - Percorso generico | 
+
+
+Sicurezza e qualità delle produzioni animali [LM] - 5728 
+https://corsi.unibo.it/magistrale/ProduzioniAnimali
+magistrale/ProduzioniAnimali
+2
+000-000 | 5728 - Percorso generico | 
+
+
+Neuroscienze e riabilitazione neuropsicologica [LM] - 0989 
+https://corsi.unibo.it/magistrale/Neuroscienze
+magistrale/Neuroscienze
+2
+000-000 | 0989 - Percorso generico | 
+
+
+Psicologia clinica [LM] - 0990 
+https://corsi.unibo.it/magistrale/PsicologiaClinica
+magistrale/PsicologiaClinica
+2
+000-000 | 0990 - Percorso generico | 
+
+
+Psicologia cognitiva applicata [LM] - 0991 
+https://corsi.unibo.it/magistrale/PsicologiaCognitivaApplicata
+magistrale/PsicologiaCognitivaApplicata
+2
+000-000 | 0991 - Percorso generico | 
+
+
+Psicologia scolastica e di comunità [LM] - 0993 
+https://corsi.unibo.it/magistrale/PsicologiaScolasticaComunita
+magistrale/PsicologiaScolasticaComunita
+2
+000-000 | 0993 - Percorso generico | 
+
+
+Psychology of wellbeing and social inclusivity [LM] - 5700 
+https://corsi.unibo.it/2cycle/PsychologyWellbeingInclusivity
+2cycle/PsychologyWellbeingInclusivity
+1
+000-000 | 5700 - Percorso generico | 
+
+
+Scienze e tecniche psicologiche [L] - 8774 
+https://corsi.unibo.it/laurea/ScienzeTecnichePsicologiche
+laurea/ScienzeTecnichePsicologiche
+3
+000-000 | 8774 - Percorso generico | 
+
+
+Work, organizational and personnel psychology [LM] - 5829 
+https://corsi.unibo.it/2cycle/OrganizationalPsychology
+2cycle/OrganizationalPsychology
+2
+000-000 | 9236 - Percorso generico | 
+
+
+Advanced cosmetic sciences [LM] - 9225 
+https://corsi.unibo.it/2cycle/AdvancedCosmeticSciences
+2cycle/AdvancedCosmeticSciences
+2
+000-000 | 9225 - Percorso generico | 
+
+
+Advanced methods in particle physics [LM] - 5810 
+https://corsi.unibo.it/2cycle/ParticlePhysics
+2cycle/ParticlePhysics
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Advanced spectroscopy in chemistry [LM] - 5706 
+https://corsi.unibo.it/2cycle/AdvancedSpectroscopyChemistry
+2cycle/AdvancedSpectroscopyChemistry
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Analisi e gestione dell'ambiente [LM] - 8418 
+https://corsi.unibo.it/magistrale/AnalisiGestioneAmbiente
+magistrale/AnalisiGestioneAmbiente
+2
+000-000 | 8418 - Percorso generico | 
+A98-000 | CURRICULUM CLIMATE-KIC | 
+968-000 | CURRICULUM: WATER AND COASTAL MANAGEMENT | 
+
+
+Astronomia [L] - 8004 
+https://corsi.unibo.it/laurea/Astronomia
+laurea/Astronomia
+3
+000-000 | 8004 - Percorso generico | 
+
+
+Astrophysics and cosmology [LM] - 5828 
+https://corsi.unibo.it/magistrale/Astrofisica
+magistrale/Astrofisica
+2
+000-000 | 8018 - Percorso generico | 
+
+
+Biodiversità ed evoluzione [LM] - 5824 
+https://corsi.unibo.it/magistrale/evoluzione
+magistrale/evoluzione
+2
+000-000 | 9075 - Percorso generico | 
+
+
+Biologia marina [LM] - 8857 
+https://corsi.unibo.it/magistrale/BiologiaMarina
+magistrale/BiologiaMarina
+2
+000-000 | 8857 - Percorso generico | 
+
+
+Chemical innovation and regulation [LM] - 5701 
+https://corsi.unibo.it/2cycle/ChemicaInnovationRegulation
+2cycle/ChemicaInnovationRegulation
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Chimica [LM] - 9072 
+https://corsi.unibo.it/magistrale/Chimica
+magistrale/Chimica
+2
+707-000 | CURRICULUM A: METODOLOGIE DI SINTESI E CHIMICA BIO-ORGANICA | 
+708-000 | CURRICULUM B: METODOLOGIE DI ANALISI E CARATTERIZZAZIONE | 
+
+
+Chimica e chimica dei materiali [L] - 8006 
+https://corsi.unibo.it/laurea/chimica
+laurea/chimica
+3
+000-000 | 8006 - Percorso generico | 
+
+
+Chimica e tecnologie per l'ambiente e per i materiali [L] - 8514 
+https://corsi.unibo.it/laurea/ChimicaAmbiente
+laurea/ChimicaAmbiente
+3
+717-000 | CURRICULUM: AMBIENTE, ENERGIA, RIFIUTI | 
+
+
+Chimica e tecnologie per l'ambiente e per i materiali [L] - 8515 
+https://corsi.unibo.it/laurea/ChimicaMateriali
+laurea/ChimicaMateriali
+3
+716-000 | CURRICULUM: MATERIALI TRADIZIONALI E INNOVATIVI | 
+
+
+Chimica industriale [LM] - 0884 
+https://corsi.unibo.it/magistrale/ChimicaIndustriale
+magistrale/ChimicaIndustriale
+2
+A40-000 | ADVANCED SPECTROSCOPY IN CHEMISTRY | 
+A39-000 | CHIMICA INDUSTRIALE | 
+
+
+Chimica industriale [L] - 8513 
+https://corsi.unibo.it/laurea/ChimicaIndustriale
+laurea/ChimicaIndustriale
+3
+000-000 | 8513 - Percorso generico | 
+
+
+Didattica e comunicazione delle scienze naturali [LM] - 5704 
+https://corsi.unibo.it/magistrale/DidatticaComunicazioneScienzeNaturali
+magistrale/DidatticaComunicazioneScienzeNaturali
+1
+B94-000 | COMUNICAZIONE DELLE SCIENZE NEI MUSEI | 
+B96-000 | DIDATTICA DELLA COMUNICAZIONE SCIENTIFICA | 
+B93-000 | DIDATTICA DELLE SCIENZE DELLA NATURA | 
+B95-000 | DIDATTICA E SVILUPPO SOSTENIBILE | 
+
+
+Fisica [L] - 9244 
+https://corsi.unibo.it/laurea/fisica
+laurea/fisica
+3
+000-000 | 9244 - Percorso generico | 
+
+
+Fisica del sistema Terra [LM] - 8626 
+https://corsi.unibo.it/magistrale/FisicaSistemaTerra
+magistrale/FisicaSistemaTerra
+2
+000-000 | 8626 - Percorso generico | 
+
+
+Geologia e territorio [LM] - 9073 
+https://corsi.unibo.it/magistrale/GeologiaTerritorio
+magistrale/GeologiaTerritorio
+2
+B58-000 | CURRICULUM A: RISCHIO IDROGEOLOGICO E PROTEZIONE DELL'AMBIENTE | 
+B59-000 | CURRICULUM B: STRATIGRAFIA INTEGRATA PER LE GEORISORSE | 
+B60-000 | CURRICULUM C: RAW MATERIALS EXPLORATION AND SUSTAINABILITY | 
+
+
+Informatica [L] - 8009 
+https://corsi.unibo.it/laurea/informatica
+laurea/informatica
+3
+000-000 | 8009 - Percorso generico | 
+
+
+Informatica [LM] - 8028 
+https://corsi.unibo.it/magistrale/informatica
+magistrale/informatica
+2
+A58-000 | CURRICULUM A: TECNICHE DEL SOFTWARE | 
+991-000 | CURRICULUM B: INFORMATICA PER IL MANAGEMENT | 
+992-000 | CURRICULUM C: SISTEMI E RETI | 
+
+
+Informatica per il management [L] - 8014 
+https://corsi.unibo.it/laurea/InformaticaManagement
+laurea/InformaticaManagement
+3
+000-000 | 8014 - Percorso generico | 
+
+
+Low carbon technologies and sustainable chemistry [LM] - 9246 
+https://corsi.unibo.it/2cycle/LowCarbonTechnologiesChemistry
+2cycle/LowCarbonTechnologiesChemistry
+2
+000-000 | 9246 - Percorso generico | 
+A98-000 | CURRICULUM CLIMATE-KIC | 
+
+
+Matematica [LM] - 5827 
+https://corsi.unibo.it/magistrale/matematica
+magistrale/matematica
+2
+955-000 | CURRICULUM A: GENERALE E APPLICATIVO | 
+839-000 | CURRICULUM C: DIDATTICO | 
+
+
+Matematica [L] - 8010 
+https://corsi.unibo.it/laurea/matematica
+laurea/matematica
+3
+000-000 | 8010 - Percorso generico | 
+
+
+Photochemistry and molecular materials [LM] - 9074 
+https://corsi.unibo.it/2cycle/PhotochemistryMolecularMaterials
+2cycle/PhotochemistryMolecularMaterials
+2
+000-000 | 9074 - Percorso generico | 
+
+
+Physics [LM] - 9245 
+https://corsi.unibo.it/2cycle/Physics
+2cycle/Physics
+2
+B25-000 | APPLIED PHYSICS | 
+B26-000 | DIDATTICA E STORIA DELLA FISICA | 
+A74-000 | MATERIALS PHYSICS AND NANOSCIENCE | 
+B24-000 | NUCLEAR AND SUBNUCLEAR PHYSICS | 
+B23-000 | THEORETICAL PHYSICS | 
+
+
+Science for the conservation - restoration of cultural heritage [LM] - 8537 
+https://corsi.unibo.it/2cycle/ScienceForConservation
+2cycle/ScienceForConservation
+2
+000-000 | 8537 - Percorso generico | 
+
+
+Scienze ambientali [L] - 8011 
+https://corsi.unibo.it/laurea/ScienzeAmbientali
+laurea/ScienzeAmbientali
+3
+000-000 | 8011 - Percorso generico | 
+
+
+Scienze biologiche [L] - 8012 
+https://corsi.unibo.it/laurea/ScienzeBiologiche
+laurea/ScienzeBiologiche
+3
+000-000 | 8012 - Percorso generico | 
+
+
+Scienze e gestione della natura [LM] - 9257 
+https://corsi.unibo.it/magistrale/ScienzeGestioneNatura
+magistrale/ScienzeGestioneNatura
+2
+B33-000 | GLOBAL CHANGE ECOLOGY AND SUSTAINABLE DEVELOPMENT GOALS | 
+B32-000 | SCIENZE E GESTIONE DELLA NATURA | 
+
+
+Scienze geologiche [L] - 8015 
+https://corsi.unibo.it/laurea/ScienzeGeologiche
+laurea/ScienzeGeologiche
+3
+000-000 | 8015 - Percorso generico | 
+
+
+Scienze naturali [L] - 5823 
+https://corsi.unibo.it/laurea/ScienzeNaturali
+laurea/ScienzeNaturali
+3
+000-000 | 8016 - Percorso generico | 
+
+
+Scienze statistiche [L] - 8873 
+https://corsi.unibo.it/laurea/ScienzeStatistiche
+laurea/ScienzeStatistiche
+3
+722-000 | CURRICULUM BIO-DEMOGRAFICO | 
+721-000 | CURRICULUM ECONOMIA E IMPRESA | 
+A32-000 | CURRICULUM STATS AND MATHS | 
+
+
+Economia e marketing nel sistema agro-industriale [L] - 5833 
+https://corsi.unibo.it/laurea/EconomiaMarketingAgroIndustriale
+laurea/EconomiaMarketingAgroIndustriale
+3
+000-000 | 8526 - Percorso generico | 
+
+
+Food safety and food risk management [LM] - 9140 
+https://corsi.unibo.it/2cycle/food-safety-risk-management
+2cycle/food-safety-risk-management
+2
+
+
+International horticultural science  [LM] - 8883 
+https://corsi.unibo.it/2cycle/InternationalHorticulturalScience
+2cycle/InternationalHorticulturalScience
+2
+000-000 | 8883 - Percorso generico | 
+
+
+Precise and sustainable agriculture [LM] - 5705 
+https://corsi.unibo.it/2cycle/PreciseSustainableAgriculture
+2cycle/PreciseSustainableAgriculture
+1
+B91-000 | ANIMAL PRODUCTION | 
+B90-000 | CROP PRODUCTION | 
+
+
+Produzioni animali [L] - 8882 
+https://corsi.unibo.it/laurea/ProduzioniAnimali
+laurea/ProduzioniAnimali
+3
+000-000 | Curriculum PRODUZIONI ANIMALI | 
+
+
+Progettazione e gestione degli ecosistemi agro-territoriali, forestali e del paesaggio [LM] - 8532 
+https://corsi.unibo.it/magistrale/ProgettazioneGestioneEcosistemi
+magistrale/ProgettazioneGestioneEcosistemi
+2
+944-000 | ANALISI E MONITORAGGIO DEGLI ECOSISTEMI | 
+945-000 | PROGETTAZIONE E GESTIONE DEGLI SPAZI VERDI | 
+
+
+Scienze e cultura della gastronomia [L] - 5808 
+https://corsi.unibo.it/laurea/ScienzeCulturaGastronomia
+laurea/ScienzeCulturaGastronomia
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Scienze e tecnologie agrarie [LM] - 9235 
+https://corsi.unibo.it/magistrale/ScienzeTecnologieAgrarie
+magistrale/ScienzeTecnologieAgrarie
+2
+943-000 | MEDICINA DELLE PIANTE | 
+A37-000 | PRODUZIONI E BIOTECNOLOGIE VEGETALI | 
+A38-000 | TECNICO-ECONOMICO E GESTIONALE | 
+
+
+Scienze e tecnologie alimentari [LM] - 8531 
+https://corsi.unibo.it/magistrale/ScienzeTecnologieAlimentari
+magistrale/ScienzeTecnologieAlimentari
+2
+000-000 | 8531 - Percorso generico | 
+
+
+Scienze e tecnologie per il verde e il paesaggio [L] - 5830 
+https://corsi.unibo.it/laurea/verdepaesaggio
+laurea/verdepaesaggio
+3
+000-000 | 8523 - Percorso generico | 
+
+
+Tecnologie agrarie [L] - 5832 
+https://corsi.unibo.it/laurea/TecnologieAgrarie
+laurea/TecnologieAgrarie
+3
+000-000 | 8524 - Percorso generico | 
+
+
+Tecnologie alimentari [L] - 8528 
+https://corsi.unibo.it/laurea/TecnologieAlimentari
+laurea/TecnologieAlimentari
+3
+000-000 | 8528 - Percorso generico | 
+
+
+Tecnologie per il territorio e l'ambiente agro-forestale [L] - 5831 
+https://corsi.unibo.it/laurea/ScienzeTerritorioAmbiente
+laurea/ScienzeTerritorioAmbiente
+3
+000-000 | 8525 - Percorso generico | 
+
+
+Viticoltura ed enologia [L] - 8527 
+https://corsi.unibo.it/laurea/ViticolturaEnologia
+laurea/ViticolturaEnologia
+3
+000-000 | 8527 - Percorso generico | 
+
+
+Educatore nei servizi per l'infanzia [L] - 9083 
+https://corsi.unibo.it/laurea/EducatoreServiziInfanzia
+laurea/EducatoreServiziInfanzia
+3
+000-000 | 9083 - Percorso generico | 
+
+
+Educatore sociale e culturale [L] - 5726 
+https://corsi.unibo.it/laurea/EducatoreSocialeCulturaleBologna
+laurea/EducatoreSocialeCulturaleBologna
+3
+000-000 | 5726 - Percorso generico | 
+
+
+Educatore sociale e culturale [L] - 5727 
+https://corsi.unibo.it/laurea/EducatoreSocialeCulturale-Rimini
+laurea/EducatoreSocialeCulturale-Rimini
+3
+000-000 | 5727 - Percorso generico | 
+
+
+Pedagogia [LM] - 9206 
+https://corsi.unibo.it/magistrale/Pedagogia
+magistrale/Pedagogia
+2
+000-000 | 9206 - Percorso generico | 
+
+
+Progettazione e gestione dell'intervento educativo nel disagio sociale [LM] - 9228 
+https://corsi.unibo.it/magistrale/InterventoEducativoDisagioSociale
+magistrale/InterventoEducativoDisagioSociale
+2
+000-000 | 9228 - Percorso generico | 
+
+
+Progettazione e gestione dell'intervento educativo nel disagio sociale [LM] - 9229 
+https://corsi.unibo.it/magistrale/InterventoEducativoDisagioSocialeRimini
+magistrale/InterventoEducativoDisagioSocialeRimini
+2
+000-000 | 9229 - Percorso generico | 
+
+
+Scienze dell'educazione permanente e della formazione continua [LM] - 8780 
+https://corsi.unibo.it/magistrale/ScienzeEducazionePermanente
+magistrale/ScienzeEducazionePermanente
+2
+000-000 | 8780 - Percorso generico | 
+
+
+Scienze della formazione primaria [LMCU] - 5711 
+https://corsi.unibo.it/magistralecu/ScienzeFormazionePrimaria
+magistralecu/ScienzeFormazionePrimaria
+5
+000-000 | 5711 - Percorso generico | 
+
+
+Management delle attività motorie e sportive [LM] - 9214 
+https://corsi.unibo.it/magistrale/ManagementSport-Bologna
+magistrale/ManagementSport-Bologna
+2
+000-000 | 9214 - Percorso generico | 
+
+
+Nutrizione umana, benessere e salute [LM] - 5812 
+https://corsi.unibo.it/magistrale/NutrizioneBenessereSalute
+magistrale/NutrizioneBenessereSalute
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Scienze delle attività motorie e sportive [L] - 8512 
+https://corsi.unibo.it/laurea/ScienzeMotorieSportive
+laurea/ScienzeMotorieSportive
+3
+A81-000 | TECNICO-SPORTIVO | 
+
+
+Scienze delle attività motorie e sportive [L] - 8766 
+https://corsi.unibo.it/laurea/ScienzeMotorieSportive-Rimini
+laurea/ScienzeMotorieSportive-Rimini
+3
+A82-000 | PREVENTIVO-ADATTATIVO | 
+
+
+Scienze e tecniche dell'attività motoria preventiva e adattata [LM] - 9263 
+https://corsi.unibo.it/magistrale/AttivitaMotoriaPreventivaAdattata-Rimini
+magistrale/AttivitaMotoriaPreventivaAdattata-Rimini
+2
+000-000 | 9263 - Percorso generico | 
+
+
+Scienze e tecniche dell'attività sportiva [LM] - 9069 
+https://corsi.unibo.it/magistrale/ScienzeTecnicheAttivitaSportiva
+magistrale/ScienzeTecnicheAttivitaSportiva
+2
+000-000 | 9069 - Percorso generico | 
+
+
+Wellness, sport and health [LM] - 5813 
+https://corsi.unibo.it/2cycle/WellnessSportHealth
+2cycle/WellnessSportHealth
+0
+
+Non è stato possibile ricevere queste informazioni
+
+Comunicazione giornalistica, pubblica e d'impresa [LM] - 5703 
+https://corsi.unibo.it/magistrale/ComunicazionePubblicaImpresa
+magistrale/ComunicazionePubblicaImpresa
+2
+B75-000 | COMUNICAZIONE PUBBLICA E D'IMPRESA | 
+B76-000 | GIORNALISMO E MEDIA DIGITALI | 
+
+
+Interdisciplinary research and studies on eastern europe [LM] - 8049 
+https://corsi.unibo.it/2cycle/mirees
+2cycle/mirees
+2
+000-000 | 8049 - Percorso generico | 
+
+
+International cooperation on human rights and intercultural heritage [LM] - 9237 
+https://corsi.unibo.it/2cycle/InternationalCooperation
+2cycle/InternationalCooperation
+2
+A95-000 | INTERNATIONAL COOPERATION ON INTERCULTURAL HERITAGE | 
+A94-000 | PROTECTION OF HUMAN RIGHTS AND INTERNATIONAL COOPERATION | 
+
+
+International relations [LM] - 9084 
+https://corsi.unibo.it/magistrale/InternationalRelations
+magistrale/InternationalRelations
+2
+B50-000 | CRIME, JUSTICE AND SECURITY | 
+B52-000 | EUROPEAN AFFAIRS | 
+B53-000 | FORECASTING, INNOVATION AND CHANGE | 
+B51-000 | INTERNATIONAL AFFAIRS | 
+B54-000 | INTERNATIONAL CRIMINOLOGY | 
+
+
+Mass media e politica [LM] - 8051 
+https://corsi.unibo.it/magistrale/MassMediaPolitica
+magistrale/MassMediaPolitica
+2
+000-000 | 8051 - Percorso generico | 
+
+
+Politica, amministrazione e organizzazione [LM] - 9085 
+https://corsi.unibo.it/magistrale/PoliticaAmministrazioneOrganizzazione
+magistrale/PoliticaAmministrazioneOrganizzazione
+2
+B44-000 | POLITICS AND SOCIAL POLICY | 
+B55-000 | SCIENZA DELL’AMMINISTRAZIONE | 
+B56-000 | TEORIA DELL'ORGANIZZAZIONE | 
+
+
+Scienze internazionali e diplomatiche [L] - 8048 
+https://corsi.unibo.it/laurea/ScienzeInternazionaliDiplomatiche
+laurea/ScienzeInternazionaliDiplomatiche
+3
+000-000 | 8048 - Percorso generico | 
+B11-000 | CURRICULUM DIPLOMATIC AND INTERNATIONAL SCIENCES | 
+B10-000 | CURRICULUM SCIENZE INTERNAZIONALI E DIPLOMATICHE | 
+
+
+Scienze internazionali e diplomatiche [LM] - 9247 
+https://corsi.unibo.it/magistrale/ScienzeInternazionaliDiplomatiche
+magistrale/ScienzeInternazionaliDiplomatiche
+2
+997-000 | POLITICA E GOVERNO NEL MONDO GLOBALE | 
+802-000 | POLITICA E SICUREZZA INTERNAZIONALE | 
+
+
+Scienze politiche, sociali e internazionali [L] - 8853 
+https://corsi.unibo.it/laurea/ScienzePoliticheSocialiInternazionali
+laurea/ScienzePoliticheSocialiInternazionali
+3
+538-000 | COMUNICAZIONE | 
+952-000 | PERCORSO INTEGRATO UNIVERSITÀ E IMPRESA | 
+950-000 | RELAZIONI INTERNAZIONALI | 
+949-000 | SCIENZE DELL’ORGANIZZAZIONE | 
+951-000 | SOCIOLOGIA | 
+
+
+Sviluppo e cooperazione internazionale [L] - 8890 
+https://corsi.unibo.it/laurea/SviluppoCooperazioneInternazionale
+laurea/SviluppoCooperazioneInternazionale
+3
+000-000 | 8890 - Percorso generico | 
+
+
+Sviluppo locale e globale [LM] - 9200 
+https://corsi.unibo.it/magistrale/SviluppoLocaleGlobale
+magistrale/SviluppoLocaleGlobale
+2
+000-000 | 9200 - Percorso generico | 
+
+
+Finanza, assicurazioni e impresa [L] - 8872 
+https://corsi.unibo.it/laurea/FinanzaAssicurazioniImpresa
+laurea/FinanzaAssicurazioniImpresa
+3
+000-000 | 8872 - Percorso generico | 
+
+
+Quantitative finance [LM] - 8854 
+https://corsi.unibo.it/2cycle/Qfinance
+2cycle/Qfinance
+2
+000-000 | 8854 - Percorso generico | 
+
+
+Scienze statistiche, finanziarie e attuariali [LM] - 8877 
+https://corsi.unibo.it/magistrale/ScienzeStatisticheFinanziarieAttuariali
+magistrale/ScienzeStatisticheFinanziarieAttuariali
+2
+000-000 | 8877 - Percorso generico | 
+
+
+Statistica, economia e impresa [LM] - 8876 
+https://corsi.unibo.it/magistrale/StatisticaEconomiaImpresa
+magistrale/StatisticaEconomiaImpresa
+2
+A35-000 | CURRICULUM MARKETING E RICERCHE DI MERCATO | 
+A36-000 | CURRICULUM METODI QUANTITATIVI PER LE DECISIONI ECONOMICHE | 
+
+
+Statistical sciences [LM] - 9222 
+https://corsi.unibo.it/2cycle/StatisticalSciences
+2cycle/StatisticalSciences
+2
+A91-000 | DATA SCIENCE | 
+A92-000 | LIFE STATISTICS | 
+A93-000 | OFFICIAL STATISTICS | 
+
+
+Scienze criminologiche per l'investigazione e la sicurezza [LM] - 8491 
+https://corsi.unibo.it/magistrale/ScienzeCriminologiche
+magistrale/ScienzeCriminologiche
+2
+000-000 | 8491 - Percorso generico | 
+
+
+Servizio sociale [L] - 8040 
+https://corsi.unibo.it/laurea/ServizioSociale
+laurea/ServizioSociale
+3
+000-000 | 8040 - Percorso generico | 
+
+
+Sociologia [L] - 8495 
+https://corsi.unibo.it/laurea/SociologiaForli
+laurea/SociologiaForli
+3
+000-000 | 8495 - Percorso generico | 
+
+
+Sociologia e servizio sociale [LM] - 8786 
+https://corsi.unibo.it/magistrale/SociologiaServizioSociale
+magistrale/SociologiaServizioSociale
+2
+251-000 | CURRICULUM SERVIZIO SOCIALE | 
+225-000 | CURRICULUM SOCIOLOGIA E RICERCA SOCIALE | 
+
+
+Antropologia culturale ed etnologia [LM] - 0964 
+https://corsi.unibo.it/magistrale/AntropologiaCulturaleEtnologia
+magistrale/AntropologiaCulturaleEtnologia
+2
+000-000 | 0964 - Percorso generico | 
+
+
+Antropologia, religioni, civiltà orientali [L] - 8493 
+https://corsi.unibo.it/laurea/ScienzeAntropologiche
+laurea/ScienzeAntropologiche
+3
+000-000 | 8493 - Percorso generico | 
+
+
+Archeologia e culture del mondo antico [LM] - 8855 
+https://corsi.unibo.it/magistrale/archeologia
+magistrale/archeologia
+2
+000-000 | 8855 - Percorso generico | 
+B67-000 | APPLIED CRITICAL ARCHAEOLOGY AND HERITAGE | 
+
+
+Arti visive [LM] - 9071 
+https://corsi.unibo.it/magistrale/artivisive
+magistrale/artivisive
+2
+000-000 | 9071 - Percorso generico | 
+B43-000 | AMAC - ARTS, MUSEOLOGY AND CURATORSHIP / ARTS, MUSÉOLOGIE ET CURATORSHIP | 
+
+
+Beni archeologici, artistici e del paesaggio: storia, tutela e valorizzazione [LM] - 9218 
+https://corsi.unibo.it/magistrale/BeniArcheologiciArtisticiPaesaggio
+magistrale/BeniArcheologiciArtisticiPaesaggio
+2
+A83-000 | PERCORSO ARCHEOLOGICO | 
+A84-000 | PERCORSO STORICO-ARTISTICO | 
+
+
+Beni culturali [L] - 9076 
+https://corsi.unibo.it/laurea/BeniCulturali
+laurea/BeniCulturali
+3
+000-000 | 9076 - Percorso generico | 
+
+
+Cinema, televisione e produzione multimediale [LM] - 0966 
+https://corsi.unibo.it/magistrale/Cinema
+magistrale/Cinema
+2
+000-000 | 0966 - Percorso generico | 
+
+
+Conservazione e restauro dei beni culturali (abilitante ai sensi del d. lgs n. 42 [LMCU] - 8616 
+https://corsi.unibo.it/magistralecu/ConservazioneRestauroBeniculturali
+magistralecu/ConservazioneRestauroBeniculturali
+5
+000-000 | 8616 - Percorso generico | 
+
+
+Culture e pratiche della moda [L] - 9064 
+https://corsi.unibo.it/laurea/CulturePraticheModa
+laurea/CulturePraticheModa
+3
+000-000 | 9064 - Percorso generico | 
+
+
+Dams - discipline delle arti, della musica e dello spettacolo [L] - 5821 
+https://corsi.unibo.it/laurea/DAMS
+laurea/DAMS
+3
+000-000 | 0956 - Percorso generico | 
+
+
+Digital humanities and digital knowledge [LM] - 9224 
+https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge
+2cycle/DigitalHumanitiesKnowledge
+2
+000-000 | 9224 - Percorso generico | 
+
+
+Discipline della musica e del teatro [LM] - 8837 
+https://corsi.unibo.it/magistrale/DisciplineMusicaTeatro
+magistrale/DisciplineMusicaTeatro
+2
+677-000 | CURRICULUM  DISCIPLINE DELLA MUSICA | 
+678-000 | CURRICULUM DISCIPLINE DEL TEATRO | 
+
+
+Fashion studies [LM] - 9067 
+https://corsi.unibo.it/2cycle/FashionStudies
+2cycle/FashionStudies
+2
+B45-000 | CURRICULUM CULTURE OF FASHION | 
+B47-000 | CURRICULUM DESIGN FOR FASHION | 
+B46-000 | CURRICULUM STRATEGY IN FASHION MANAGEMENT | 
+
+
+Filologia, letteratura e tradizione classica [LM] - 9070 
+https://corsi.unibo.it/magistrale/FilologiaClassica
+magistrale/FilologiaClassica
+2
+000-000 | 9070 - Percorso generico | 
+
+
+Filosofia [L] - 9216 
+https://corsi.unibo.it/laurea/Filosofia
+laurea/Filosofia
+3
+A85-000 | CURRICULUM FILOSOFIA: CONCETTI E CONTESTI | 
+A86-000 | CURRICULUM FILOSOFIA: CONTESTI E APPLICAZIONI | 
+
+
+Geografia e processi territoriali [LM] - 0971 
+https://corsi.unibo.it/magistrale/GeografiaProcessiTerritoriali
+magistrale/GeografiaProcessiTerritoriali
+2
+000-000 | 0971 - Percorso generico | 
+
+
+Informazione, culture e organizzazione dei media [LM] - 5698 
+https://corsi.unibo.it/magistrale/InformazioneCultureOrganizzazioneMedia
+magistrale/InformazioneCultureOrganizzazioneMedia
+1
+B73-000 | CULTURE DELL'INFORMAZIONE | 
+B74-000 | ORGANIZZAZIONE DEI MEDIA | 
+
+
+Italianistica, culture letterarie europee, scienze linguistiche [LM] - 9220 
+https://corsi.unibo.it/magistrale/ItalianisticaCultureLetterarieLinguistica
+magistrale/ItalianisticaCultureLetterarieLinguistica
+2
+A88-000 | CULTURE LETTERARIE EUROPEE | 
+A89-000 | ITALIAN STUDIES | 
+A87-000 | ITALIANISTICA | 
+A90-000 | SCIENZE LINGUISTICHE | 
+
+
+Lettere [L] - 8850 
+https://corsi.unibo.it/laurea/lettere
+laurea/lettere
+3
+906-000 | CURRICULUM CLASSICO | 
+953-000 | CURRICULUM CULTURE LETTERARIE EUROPEE | 
+947-000 | CURRICULUM MODERNO | 
+
+
+Progettazione e gestione dei sistemi produttivi audiovisivi e performativi [LM] - 5710 
+https://corsi.unibo.it/magistrale/SistemiProduttiviAudiovisiviPerformativi
+magistrale/SistemiProduttiviAudiovisiviPerformativi
+1
+
+
+Scienze del libro e del documento [LM] - 9077 
+https://corsi.unibo.it/magistrale/ScienzeLibro
+magistrale/ScienzeLibro
+2
+000-000 | 9077 - Percorso generico | 
+
+
+Scienze della comunicazione [L] - 8885 
+https://corsi.unibo.it/laurea/ScienzeComunicazione
+laurea/ScienzeComunicazione
+3
+000-000 | 8885 - Percorso generico | 
+
+
+Scienze filosofiche [LM] - 8773 
+https://corsi.unibo.it/magistrale/ScienzeFilosofiche
+magistrale/ScienzeFilosofiche
+2
+000-000 | 8773 - Percorso generico | 
+
+
+Scienze storiche e orientalistiche [LM] - 8845 
+https://corsi.unibo.it/magistrale/ScienzeStoricheOrientalistiche
+magistrale/ScienzeStoricheOrientalistiche
+2
+893-000 | CURRICULUM SCIENZE STORICHE | 
+905-000 | CURRICULUM STUDI ORIENTALI | 
+A55-000 | GLOBAL CULTURES | 
+
+
+Semiotica [LM] - 8886 
+https://corsi.unibo.it/magistrale/semiotica
+magistrale/semiotica
+2
+000-000 | 8886 - Percorso generico | 
+
+
+Società e culture del Mediterraneo: istituzioni, sicurezza, ambiente [L] - 5696 
+https://corsi.unibo.it/laurea/CultureMediterraneo
+laurea/CultureMediterraneo
+1
+000-000 | 5696 - Percorso generico | 
+B85-000 | POLITICA, DIRITTI, RISORSE | 
+B86-000 | SICUREZZA, LINGUAGGI, ISTITUZIONI | 
+B84-000 | STORIA, RELIGIONI, AMBIENTE | 
+
+
+Storia [L] - 0962 
+https://corsi.unibo.it/laurea/storia
+laurea/storia
+3
+000-000 | 0962 - Percorso generico | 
+
+
