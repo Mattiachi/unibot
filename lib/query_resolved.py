@@ -10,15 +10,23 @@ mydb = mysql.connector.connect(
 	database = "unibot"
 	)
 
-mycursor = mydb.cursor()
+#mycursor = mydb.cursor()
 
 def exFetch(cmd):
+	#mycursor.close() #
+	mycursor = mydb.cursor()
 	mycursor.execute(cmd)
-	return mycursor.fetchall()
+	#return mycursor.fetchall()
+	data = mycursor.fetchall()
+	mycursor.close()
+	return data
 
 def exCommit(cmd):
+#	mycursor.close()
+	mycursor = mydb.cursor()
 	mycursor.execute(cmd)
 	mydb.commit()
+	mycursor.close()
 	return
 
 def getToken(a = 0):
@@ -72,6 +80,7 @@ def getAdmins():
 	"""
 	Returns the list of all the chat_id in the table admin
 	"""
+	print("Getting admins")
 	if(DEBUG):
 		print("Retrieving the admins from the database")
 	return exFetch("SELECT chat_id FROM admin")

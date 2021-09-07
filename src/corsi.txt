@@ -20,9 +20,8 @@ https://corsi.unibo.it/1cycle/CLaBE
 Digital transformation management [LM] - 5815 
 https://corsi.unibo.it/2cycle/DigitalTransformationManagement
 2cycle/DigitalTransformationManagement
-0
+1
 
-Non è stato possibile ricevere queste informazioni
 
 Direzione aziendale [LM] - 0897 
 https://corsi.unibo.it/magistrale/DirezioneAziendale
@@ -130,7 +129,6 @@ https://corsi.unibo.it/1cycle/EconomicsPoliticsSocialSciences
 1cycle/EconomicsPoliticsSocialSciences
 0
 
-Non è stato possibile ricevere queste informazioni
 
 Finanza, intermediari e mercati [LM] - 0901 
 https://corsi.unibo.it/magistrale/FinanzaIntermediariMercati
@@ -165,7 +163,6 @@ https://corsi.unibo.it/2cycle/LawEconomicsGovernance
 2cycle/LawEconomicsGovernance
 0
 
-Non è stato possibile ricevere queste informazioni
 
 Management dell'economia sociale [LM] - 8843 
 https://corsi.unibo.it/magistrale/EconomiaSociale
@@ -355,7 +352,7 @@ B80-000 | CURRICULUM SPACE |
 Architecture and creative practices for the city and landscape [LM] - 5809 
 https://corsi.unibo.it/2cycle/ArchitectureCreativePractices
 2cycle/ArchitectureCreativePractices
-0
+1
 
 
 Architettura [LMCU] - 9265 
@@ -654,7 +651,7 @@ laurea/IngegneriAmbienTerritorio
 Meccatronica [L] - 5818 
 https://corsi.unibo.it/laurea/meccatronica
 laurea/meccatronica
-0
+1
 
 
 Offshore engineering [LM] - 9249 
@@ -669,15 +666,14 @@ B31-000 | OFFSHORE STRUCTURES |
 Tecniche per l'edilizia e il territorio [L] - 5817 
 https://corsi.unibo.it/laurea/TecnicheEdiliziaTerritorio
 laurea/TecnicheEdiliziaTerritorio
-0
+1
 
 
 Tecnologie dei sistemi informatici [L] - 5816 
 https://corsi.unibo.it/laurea/TecnologieSistemiInformatici
 laurea/TecnologieSistemiInformatici
-0
+1
 
-Non è stato possibile ricevere queste informazioni
 
 Telecommunications engineering [LM] - 9205 
 https://corsi.unibo.it/2cycle/TelecommunicationsEngineering
@@ -922,9 +918,8 @@ magistrale/BiotecnologieAnimali
 Food animal metabolism and management in the circular economy [LM] - 5814 
 https://corsi.unibo.it/2cycle/FoodAnimalMetabolismManagement
 2cycle/FoodAnimalMetabolismManagement
-0
+1
 
-Non è stato possibile ricevere queste informazioni
 
 Medicina veterinaria [LMCU] - 8617 
 https://corsi.unibo.it/magistralecu/MedicinaVeterinaria
@@ -1006,9 +1001,8 @@ Non è stato possibile ricevere queste informazioni
 Advanced spectroscopy in chemistry [LM] - 5706 
 https://corsi.unibo.it/2cycle/AdvancedSpectroscopyChemistry
 2cycle/AdvancedSpectroscopyChemistry
-0
+1
 
-Non è stato possibile ricevere queste informazioni
 
 Analisi e gestione dell'ambiente [LM] - 8418 
 https://corsi.unibo.it/magistrale/AnalisiGestioneAmbiente
@@ -1293,9 +1287,8 @@ magistrale/ProgettazioneGestioneEcosistemi
 Scienze e cultura della gastronomia [L] - 5808 
 https://corsi.unibo.it/laurea/ScienzeCulturaGastronomia
 laurea/ScienzeCulturaGastronomia
-0
+1
 
-Non è stato possibile ricevere queste informazioni
 
 Scienze e tecnologie agrarie [LM] - 9235 
 https://corsi.unibo.it/magistrale/ScienzeTecnologieAgrarie
@@ -1416,7 +1409,6 @@ https://corsi.unibo.it/magistrale/NutrizioneBenessereSalute
 magistrale/NutrizioneBenessereSalute
 0
 
-Non è stato possibile ricevere queste informazioni
 
 Scienze delle attività motorie e sportive [L] - 8512 
 https://corsi.unibo.it/laurea/ScienzeMotorieSportive
@@ -1451,7 +1443,6 @@ https://corsi.unibo.it/2cycle/WellnessSportHealth
 2cycle/WellnessSportHealth
 0
 
-Non è stato possibile ricevere queste informazioni
 
 Comunicazione giornalistica, pubblica e d'impresa [LM] - 5703 
 https://corsi.unibo.it/magistrale/ComunicazionePubblicaImpresa
