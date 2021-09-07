@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import telepot, time
 
-from  lib.query import getToken
+from  lib.query_resolved  import getToken
 
 
 bot = telepot.Bot(getToken())

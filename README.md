@@ -1,3 +1,4 @@
-# unibot
+# Unibot
 
-> A simple calendar for everyone
+A calendar made for the unibo's students to have ad update on every-day courses  
+

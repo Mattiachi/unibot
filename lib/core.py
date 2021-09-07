@@ -3,7 +3,7 @@
 import os 
 
 from datetime import  *
-from lib.query import *
+from lib.query_resolved import *
 
 import json 
 
