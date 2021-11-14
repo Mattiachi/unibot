@@ -5,7 +5,6 @@ Date: Apr. 16 2021
 Version: 3.0, python3
 '''
 
-
 test = 0 #If zero does not run as test script
 
 import telepot,re, schedule
@@ -18,7 +17,7 @@ import locale
 #Our libraries
 from  lib.query_resolved import *
 from  lib.messageHandler  import myHandle
-from lib.corallo import *
+from lib.core import *
 
 #Telepot
 from telepot.loop import MessageLoop
@@ -33,7 +32,7 @@ response = getAdmins()
 debug = True
 msg = str(__file__) + " just restarted"
 
-
+# set locale to translate from english to another lenguage days
 it = locale.setlocale(locale.LC_TIME, 'it_IT.UTF-8')
 
 if(debug):
@@ -50,16 +49,20 @@ def sendMessage(chat_id, message):
     bot.sendMessage(chat_id, message)
 
 def giornata(chat_id, message):
+                """ function to create daily time table 
+
+                Args:
+                    chat_id ([int]): [user id to send message]
+                    message ([str]): [payload]
+
+                Returns:
+                    [str, str]: [keyboard to navigate, payload]
+                """
                 print("Executing GIORNATA " + datetime.now().strftime("%H:%M:%S"))
                 now = datetime.now()
                 today = now.strftime("%Y-%m-%d")
                 tomorrow = now + timedelta(1,0)
                 nextDay = tomorrow.strftime("%Y-%m-%d")
-                """
-                sql = 'select corso,anno from utente where chat_id = ' + str(chat_id)
-                mycursor.execute(sql)
-                response = mycursor.fetchall()
-                """
                 a = nextDay
                 if(message == "/oggi"):
                         a = today
@@ -70,13 +73,10 @@ def giornata(chat_id, message):
                         text += str(a) + "*\n"
 
                         
-                ob = getJson(str(chat_id), a, a) #Gli ultimi due campi della funzione sono la data di inizio e di fine di quando si vuole ricevere la lezione
+                ob = getJson(str(chat_id), a, a) 
                 if(ob == " "):
                     bot.sendMessage(chat_id, "Qualcosa è andato storto con il tuo orario :^(\n Riprova più tardi") 
                 ob = buildDict(ob)
-                #text = "Ecco le lezioni di " + message[1:] + "\n"
-                #text += "*" + str(a) + "*\n"
-
                 l = len(text)
                 for x in range(len(ob)):
                         text += str(ob[x].to_string())
@@ -89,13 +89,17 @@ def giornata(chat_id, message):
 
 
 def getWeek(chat_id):
+    """[gets the week timetable]
+     
+    Args:
+        chat_id ([int]): [user id to send message]
+    """
     tastiera = ["Oggi","/oggi","Domani","/domani","Settimana", "/settimana", "Menù", "/menu"]
     today = datetime.now()
     week = "Ecco le lezioni per la settimana corrente\n"
     for i in range(7):
-        ob = getJson(str(chat_id), today.strftime("%Y-%m-%d"), today.strftime("%Y-%m-%d")) #Gli ultimi due campi della funzione sono la data di inizio e di fine di quando si vuole ricevere la lezione
+        ob = getJson(str(chat_id), today.strftime("%Y-%m-%d"), today.strftime("%Y-%m-%d"))
         ob = buildDictWeek(ob)
-#        week += "\n*" + today.strftime("%Y-%m-%d") + "*\n" 
         week += "\n*" + today.strftime("%A %D") + "*\n"
         for x in range(len(ob)):
             if(len(str(ob[x].to_stringWeek())) != 0):
@@ -106,6 +110,17 @@ def getWeek(chat_id):
     return week, tastiera
 
 def getDay(department, anno, start, end):
+    """[creates the http request]
+     
+    Args:
+        department ([str]): [uinversita url]
+        anno ([str]): [anno]
+        start ([str]): [date to start reading]
+        end ([str]): [date to stop reading]
+     
+    Returns:
+        [dict]: [dictionary containg the information]
+    """
     cmd = ""
     cmd += "curl \"" + department + "/@@orario_reale_json?&anno=" + str(anno)
     cmd += "&start=" + start + "&end=" + end + "\""
@@ -129,6 +144,8 @@ def mySendMessage(cchat_id, when):
 
 
 def startSchedules():
+        """[schedule utility]
+        """
         if(test):
                 print("This is a test, i won't execute this function")
                 return
@@ -155,6 +172,13 @@ def startSchedules():
         print(output)
 
 def addSchedule(chat_id, wwhen, hour):
+        """[adds the schedule]
+
+        Args:
+            chat_id ([int]): [user id to send message]
+            wwhen ([date]): [date]
+            hour ([time]): [time]
+        """
         if(test):
                 print("This is a test, i won't execute this function")
                 return
@@ -168,6 +192,12 @@ def addSchedule(chat_id, wwhen, hour):
 
 
 def deleteSchedule(chat_id, when):
+        """[delets schedule]
+
+        Args:
+            chat_id ([int]): [user id to send message]
+            when ([date]): [date]
+        """
         if(test):
                 print("This is a test, i won't execute this function")
                 return
@@ -176,16 +206,21 @@ def deleteSchedule(chat_id, when):
         print("Schedule " +when+ " clear for chat_id = " + str(chat_id))
 
 def handle(chat_id,message):
+        """[handle alle the scenarios to send timetables]
+
+        Args:
+            chat_id ([int]): [user id to send message]
+            message ([str]): [payload]
+        """
         print(chat_id, message,message_count)
 
         nuovoUtente(chat_id)
         state = getState(chat_id)
         updateLast_seen(chat_id)
 
-        #prendo il cursor
+        #take the cursor
         mycursor=mydb.cursor()
-        #alla fine della funzione lo chiudo
-        if(message == "kicked"):
+        if(message == "kicked"): # User blocks the bot
                 print("Setting to -1 stato di  " + str(chat_id))
                 sql = "update utente set stato = -1, curricula_id = NULL, anno = 1, oggi = NULL, domani = NULL where  chat_id =" + str(chat_id)
                 mycursor.execute(sql)
@@ -195,14 +230,14 @@ def handle(chat_id,message):
                 deleteSchedule(chat_id, "/domani")
 
 
-        if(message == "member"):
+        if(message == "member"): # Average chad bot user
                 print("Setting to 0 stato di " + str(chat_id))
                 sql = "update utente set stato = 0, curricula_id = NULL, anno = 1 where  chat_id =" + str(chat_id)
                 mycursor.execute(sql)
                 mydb.commit()
                 state = 0
 
-        if(message == "/start"):
+        if(message == "/start"): # New user turns on the bot
                 sql = "update utente set stato = 0, anno = 1, oggi = NULL, curricula_ID = NULL, domani = NULL where  chat_id =" + str(chat_id)
                 mycursor.execute(sql)
                 mydb.commit()
@@ -211,22 +246,18 @@ def handle(chat_id,message):
                 updateNickname(chat_id, nickname)
                 deleteSchedule(chat_id, "/oggi")
                 deleteSchedule(chat_id, "/domani")
-                #response = getAdmins()
-                #msg = nickname + " joined the gang"
-                #for i in range(len(response)):
-                #       bot.sendMessage(response[i][0], msg)
 
-        if(state == 0): #Utente sconociuto
+        if(state == 0): # Unkow user
                 testo = "Ciao, sono unibot! Una volta impostato il tuo corso di laurea e anno, sarò in grado di mandarti l'orario odierno o del giorno seguente su richiesta. \n"
                 print("Stato utente 0, procedo alla registrazione")
                 testo += "Procediamo alla registrazione: che corso frequenti? \n(Basta una parola chiave contenuta nel nome del tuo corso di laurea, come ingegneria, med, ling, elettronica)"
-                #Passo allo stato = 1
+                # state = 1
                 upgradeStato(chat_id)
                 bot.sendMessage(chat_id,testo)
                 updateNickname(chat_id, nickname)
                 return
 
-        if(state == 1): #Chiedendo il corso di laurea
+        if(state == 1): # Select uni department
                 results = likeString(message)
                 text = "Quale tra questi è il tuo corso?\n"
                 corsi = []
@@ -241,7 +272,7 @@ def handle(chat_id,message):
                 upgradeStato(chat_id)
                 return
 
-        if(state == 2): #Inserendo il corso di laurea
+        if(state == 2): # Insert uni department 
                 sql = "select ID from universita"
                 if(message.isnumeric() and [item for item in exFetch(sql) if item[0] == int(message)]):
                         upgradeStato(chat_id)
@@ -255,7 +286,7 @@ def handle(chat_id,message):
                         downgradeStato(chat_id)
                         return
 
-        if(state == 3):
+        if(state == 3): #Found curricula
                 if(message.isnumeric()):
                         #Se arrivo fino a qui, ho trovato il curricula ID
                         sql = "update utente set curricula_id = " + message + " where chat_id = " + str(chat_id)
@@ -276,7 +307,7 @@ def handle(chat_id,message):
                         return
 
 
-        if(state == 4): #Inserendo anno di frequentazione
+        if(state == 4): #Insert year
                 sql = 'select durata from universita where ID = (select id_universita from percorso where ID = (select curricula_id from utente where chat_id = "' + str(chat_id) + '"))'
                 max = int(exFetch(sql)[0][0])
                 if(message.isdigit() and 1 <= int(message) <= max):
@@ -292,7 +323,7 @@ def handle(chat_id,message):
                         return
 
 
-        if(state == 6 or state == 7):
+        if(state == 6 or state == 7): # Set schedule
 
                 try:
                         print(datetime.strptime(message, '%H:%M').time())
@@ -302,7 +333,6 @@ def handle(chat_id,message):
 
                 if(state == 6):
                         sql = 'update utente set oggi ="' + str(message) + ' " where chat_id = ' + str(chat_id)
-                        #def addSchedule(chat_id, when, hour):
                         deleteSchedule(chat_id, "/oggi")
                         addSchedule(chat_id, "/oggi", message)
                 else:
@@ -359,20 +389,9 @@ def handle(chat_id,message):
                    bot.sendMessage(chat_id, text[i*4096:(i+1)*4096], parse_mode = 'Markdown')
                 bot.sendMessage(chat_id, "Questa era la tua settimana:", reply_markup=makeKeyboard(tastiera), parse_mode='Markdown')
                 return
-
-                """
-                msg = textwrap.wrap(text, 3000)
-                print(len(msg))
-                for part in range(len(msg)):
-                    print(len(msg[part]))
-                    bot.sendMessage(chat_id, msg[part] , reply_markup=makeKeyboard(tastiera), parse_mode='Markdown')
-                    return
-                """
             bot.sendMessage(chat_id, text, reply_markup=makeKeyboard(tastiera), parse_mode='Markdown')
 
         if(message == '/stats' and adminInfo(chat_id)):
-                #[utenti_attivi,messaggi] = getStats()
-                #text = "*Utenti attivi*: " + str(utenti_attivi) + "\n*Messaggi ricevuti*: " + str(messaggi)
                 tastiera = ["Oggi","/oggi","Domani","/domani","Settimana", "/settimana", "Menù", "/menu"]
                 text = ""
                 text += os.popen("sudo supervisorctl status | awk '{print}'").read() + "\n\n"
@@ -383,26 +402,25 @@ def handle(chat_id,message):
                 text += "\n"
                 bot.sendMessage(chat_id, text, reply_markup=makeKeyboard(tastiera) , parse_mode='Markdown')
 
-        if(message == '/menu'):
+        if(message == '/menu'): # Send menu
                 tastiera = ["Reimposta corso/anno","/start" ]
                 feature_in_beta = ["Ricordami oggi", "/ricordamioggi", "Ricordami domani","/ricordamidomani", "Non ricordarmi più", "/nonricordarmi", "Torna indietro", "/goback"]
                 tastiera += feature_in_beta
 
                 if(adminInfo(chat_id)):
-                #       tastiera += feature_in_beta
                         tastiera += ["Jobs", "/jobs","Stats", "/stats"]
 
                 text = "Menù:"
                 bot.sendMessage(chat_id, text ,reply_markup = makeKeyboard(tastiera))
 
-        if(message == '/ricordamioggi'): #and adminInfo(chat_id)):
+        if(message == '/ricordamioggi'): # Add daily schedule
                 sql = 'update utente set stato=6 where chat_id = ' + str(chat_id)
                 mycursor.execute(sql)
                 mydb.commit()
                 text = "A che orario vuoi ricevere l'orario relativo alla giornata di oggi?\nScrivilo nel formato hh:mm , per esempio 8:30 oppure 15:30"
                 bot.sendMessage(chat_id, text)
 
-        if(message == '/ricordamidomani'): # and adminInfo(chat_id)):
+        if(message == '/ricordamidomani'): # Add daily schedule
                 sql = 'update utente set stato=7 where chat_id = ' + str(chat_id)
                 mycursor.execute(sql)
                 mydb.commit()
@@ -438,7 +456,6 @@ def handle(chat_id,message):
         mycursor.close()
 
 startSchedules()
-#mycursor.close()
 
 #Per non fare crashare il db..
 schedule.every().minute.at(":45").do(getAdmins).tag("Anticrash")
