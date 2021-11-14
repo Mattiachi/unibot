@@ -12,13 +12,11 @@ import telepot,re, schedule
 from datetime import datetime,timedelta
 
 import time as ttt, json
-import textwrap
-import locale
 
 #Our libraries
 from  lib.query_resolved import *
 from  lib.messageHandler  import myHandle
-from lib.corallo import *
+from lib.core import *
 
 #Telepot
 from telepot.loop import MessageLoop
@@ -30,12 +28,8 @@ bot = telepot.Bot(getToken(test))
 # Sends message to the admins when (re)started
 response = getAdmins()
 
-debug = True
+debug = False 
 msg = str(__file__) + " just restarted"
-
-
-it = locale.setlocale(locale.LC_TIME, 'it_IT.UTF-8')
-
 if(debug):
         msg = "I'm working on " + str(__file__)
 
@@ -63,19 +57,10 @@ def giornata(chat_id, message):
                 a = nextDay
                 if(message == "/oggi"):
                         a = today
-                        text = "Ecco le lezioni di \n*" + now.strftime("%A").capitalize() + " "
-                        text += str(a) + "*\n"
-                else:
-                        text = "Ecco le lezioni di \n*" + tomorrow.strftime("%A").capitalize() + " "
-                        text += str(a) + "*\n"
-
-                        
                 ob = getJson(str(chat_id), a, a) #Gli ultimi due campi della funzione sono la data di inizio e di fine di quando si vuole ricevere la lezione
-                if(ob == " "):
-                    bot.sendMessage(chat_id, "Qualcosa è andato storto con il tuo orario :^(\n Riprova più tardi") 
                 ob = buildDict(ob)
-                #text = "Ecco le lezioni di " + message[1:] + "\n"
-                #text += "*" + str(a) + "*\n"
+                text = "Ecco le lezioni di " + message[1:] + "\n"
+                text += "*" + str(a) + "*\n"
 
                 l = len(text)
                 for x in range(len(ob)):
@@ -83,27 +68,9 @@ def giornata(chat_id, message):
 
                 if(len(text) == l):
                         text += "\n*Nessuna lezione*"
+                tastiera = ["Oggi","/oggi","Domani","/domani","Menù", "/menu"]
 
-                tastiera = ["Oggi","/oggi","Domani","/domani","Settimana", "/settimana", "Menù", "/menu"]
                 return text,tastiera
-
-
-def getWeek(chat_id):
-    tastiera = ["Oggi","/oggi","Domani","/domani","Settimana", "/settimana", "Menù", "/menu"]
-    today = datetime.now()
-    week = "Ecco le lezioni per la settimana corrente\n"
-    for i in range(7):
-        ob = getJson(str(chat_id), today.strftime("%Y-%m-%d"), today.strftime("%Y-%m-%d")) #Gli ultimi due campi della funzione sono la data di inizio e di fine di quando si vuole ricevere la lezione
-        ob = buildDictWeek(ob)
-#        week += "\n*" + today.strftime("%Y-%m-%d") + "*\n" 
-        week += "\n*" + today.strftime("%A %D") + "*\n"
-        for x in range(len(ob)):
-            if(len(str(ob[x].to_stringWeek())) != 0):
-                week += str(ob[x].to_stringWeek())
-            else: 
-                week += "\n*Nessuna lezione*"
-        today = today + timedelta(1, 0)
-    return week, tastiera
 
 def getDay(department, anno, start, end):
     cmd = ""
@@ -321,11 +288,11 @@ def handle(chat_id,message):
                 if(state == 6):
                         dday = "oggi"
                 testo = "Ogni giorno riceverai relativo alla giornata di *" +dday + "* alle ore *" +str(message) + "*"
-                tastiera = ["Oggi","/oggi","Domani","/domani","Settimana", "/settimana", "Menù", "/menu"]
+                tastiera = ["Oggi","/oggi","Domani","/domani","Menù", "/menu"]
                 bot.sendMessage(chat_id, testo, reply_markup = makeKeyboard(tastiera), parse_mode='Markdown')
 
         if(state == 8):
-                tastiera = ["Oggi","/oggi","Domani","/domani", "Settimana", "/settimana", "Menù", "/menu"]
+                tastiera = ["Oggi","/oggi","Domani","/domani","Menù", "/menu"]
                 if(message == "oggi"):
                         exCommit('update utente set stato=5, ' + message + ' = NULL where chat_id = ' + str(chat_id))
                         bot.sendMessage(chat_id, "Non riceverai più l'orario relativo alla giornata di " + message,reply_markup = makeKeyboard(tastiera))
@@ -351,29 +318,11 @@ def handle(chat_id,message):
                 tastiera = ["Oggi","/oggi","Domani","/domani","Menù", "/menu"]
                 bot.sendMessage(chat_id, "Menù principale", reply_markup=makeKeyboard(tastiera), parse_mode='Markdown')
 
-        if(message == "/settimana"):
-            text,tastiera = getWeek(chat_id)
-            print(len(text))
-            if(len(text) > 4096):
-                for i in range(0,int(len(text) / 4096) + (len(text) % 4096 > 0)):
-                   bot.sendMessage(chat_id, text[i*4096:(i+1)*4096], parse_mode = 'Markdown')
-                bot.sendMessage(chat_id, "Questa era la tua settimana:", reply_markup=makeKeyboard(tastiera), parse_mode='Markdown')
-                return
-
-                """
-                msg = textwrap.wrap(text, 3000)
-                print(len(msg))
-                for part in range(len(msg)):
-                    print(len(msg[part]))
-                    bot.sendMessage(chat_id, msg[part] , reply_markup=makeKeyboard(tastiera), parse_mode='Markdown')
-                    return
-                """
-            bot.sendMessage(chat_id, text, reply_markup=makeKeyboard(tastiera), parse_mode='Markdown')
 
         if(message == '/stats' and adminInfo(chat_id)):
                 #[utenti_attivi,messaggi] = getStats()
                 #text = "*Utenti attivi*: " + str(utenti_attivi) + "\n*Messaggi ricevuti*: " + str(messaggi)
-                tastiera = ["Oggi","/oggi","Domani","/domani","Settimana", "/settimana", "Menù", "/menu"]
+                tastiera = ["Oggi","/oggi","Domani","/domani","Menù", "/menu"]
                 text = ""
                 text += os.popen("sudo supervisorctl status | awk '{print}'").read() + "\n\n"
                 text += getStats()

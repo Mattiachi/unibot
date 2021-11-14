@@ -1,11 +1,12 @@
 '''
 Author: Mattia&Matteo<3
-Program: test.py
+Program: bot.py
 Date: Apr. 16 2021
-Version: 2.0, python3
+Version: 3.0, python3
 '''
 
-test = 1 #If one runs as test script
+
+test = 0 #If zero does not run as test script
 
 import telepot,re, schedule
 from datetime import datetime,timedelta
@@ -13,7 +14,7 @@ from datetime import datetime,timedelta
 import time as ttt, json
 
 #Our libraries
-from  lib.query import *
+from  lib.query_resolved import *
 from  lib.messageHandler  import myHandle
 from lib.core import *
 
@@ -43,7 +44,7 @@ def sendMessage(chat_id, message):
     bot.sendMessage(chat_id, message)
 
 def giornata(chat_id, message):
-		print("Executing GIORNATA")
+		print("Executing GIORNATA " + datetime.now().strftime("%H:%M:%S"))
 		now = datetime.now()
 		today = now.strftime("%Y-%m-%d")
 		tomorrow = now + timedelta(1,0)
@@ -89,7 +90,7 @@ def getDay(department, anno, start, end):
 
 
 def mySendMessage(cchat_id, when):
-	print("Executing mySendMessage for " + str(cchat_id) + " " + str(when))
+	print("Executing mySendMessage for " + str(cchat_id) + " " + str(when) + " " + datetime.now().strftime("%H:%M:%S"))
 	text, tastiera = giornata(cchat_id, when)
 	bot.sendMessage(cchat_id, text, reply_markup = makeKeyboard(tastiera), parse_mode = 'Markdown')
 
@@ -148,7 +149,9 @@ def handle(chat_id,message):
 	state = getState(chat_id)
 	updateLast_seen(chat_id)
 
-
+	#prendo il cursor 
+	mycursor=mydb.cursor()
+	#alla fine della funzione lo chiudo 
 	if(message == "kicked"):
 		print("Setting to -1 stato di  " + str(chat_id))
 		sql = "update utente set stato = -1, curricula_id = NULL, anno = 1, oggi = NULL, domani = NULL where  chat_id =" + str(chat_id)
@@ -175,10 +178,10 @@ def handle(chat_id,message):
 		updateNickname(chat_id, nickname)
 		deleteSchedule(chat_id, "/oggi")
 		deleteSchedule(chat_id, "/domani")
-		response = getAdmins()
-		msg = nickname + " joined the gang"
-		for i in range(len(response)):
-			bot.sendMessage(response[i][0], msg)
+		#response = getAdmins()
+		#msg = nickname + " joined the gang"
+		#for i in range(len(response)):
+		#	bot.sendMessage(response[i][0], msg)
 
 	if(state == 0): #Utente sconociuto
 		testo = "Ciao, sono unibot! Una volta impostato il tuo corso di laurea e anno, sarò in grado di mandarti l'orario odierno o del giorno seguente o dell'intera settimana su richiesta. Inoltre puoi attivare la modalità ricorda, che ad un orario a tuo piacimento, ti invierà gli orari delle lezioni odierne o del giorno seguente. "
@@ -265,8 +268,10 @@ def handle(chat_id,message):
 		if(state == 6):
 			sql = 'update utente set oggi ="' + str(message) + ' " where chat_id = ' + str(chat_id)
 			#def addSchedule(chat_id, when, hour):
+			deleteSchedule(chat_id, "/oggi")
 			addSchedule(chat_id, "/oggi", message)
 		else:
+			deleteSchedule(chat_id, "/domani")
 			addSchedule(chat_id, "/domani", message)
 			sql = 'update utente set domani ="' + str(message) + ' " where chat_id = ' + str(chat_id)
 
@@ -366,8 +371,17 @@ def handle(chat_id,message):
 		b = "cc"
 		print(a+b)
 
+	if(message == "/admin"):
+		print("hai chiesto gli admin")
+		print(getAdmins())
+
+	mycursor.close()
 
 startSchedules()
+#mycursor.close()
+
+#provo a risolvere
+schedule.every().minute.at(":30").do(getAdmins).tag("Anticrash")
 
 while True:
 
