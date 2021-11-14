@@ -47,13 +47,7 @@ def getState(id):
 	"""
 	id = str(id)
 	var = exFetch("SELECT stato FROM utente WHERE chat_id = " + id)
-#	print("1" + var[0][0])
-#	print("2" + var)
-#	print(id)
-#	print("3" + type(var))
-	print(int(var[0][0]))
 	var = int(var[0][0])
-
 	if(DEBUG):
 		print("chat_id " + id + " has now a stato of: " + str(var))
 	return var
@@ -145,30 +139,19 @@ def adminInfo(chat_id):
 	return 0
 
 def getStats():
+	"""
 	a = exFetch('select count(*) from utente')
 	x = "*Utenti totali:* " + str(a[0][0])
-	a = exFetch('select count(*) from utente where last_seen > NOW() - INTERVAL 7 DAY or oggi or domani;')
-	x += "\n*Utenti attivi ultima settimana:* " + str(a[0][0]) + "\n"
-	a = exFetch('select count(*) from utente where oggi')
-	x += "\n*Utenti che usano oggi:* " + str(a[0][0])
-	a = exFetch('select count(*) from utente where oggi')
-	x += "\n*Utenti che usano domani:* " + str(a[0][0])
-	a = exFetch('select count(*) from utente where oggi or domani')
-	x += "\n*Utenti che usano ricordami:* " + str(a[0][0])
-	a = exFetch('select count(*) from utente where stato = -1')
-	x += "\n*Utenti che hanno bloccato il bot:* " + str(a[0][0])
-#	a = exFetch('select utente.nick , universita.corso, utente.anno, utente.messaggi, utente.last_seen, utente.oggi, utente.domani from utente join percorso on utente.curricula_id  = percorso.ID join universita on universita.ID = percorso.id_universita order by last_seen DESC;')
-#	x += "*nick | corso | anno | msg | last_seen | oggi | domani\n\n*"
-#	for i in range(len(a)):
-#		x+="*" + str(i+1) +")* "
-#		for j in range(len(a[i])):
-#			if(j == 0):
-#				x+="*"
-#			x+= str(a[i][j])
-#			if(j==0):
-#				x+="*"
-#			x+=" | "
-#		x +="\n"
+	a = exFetch('select count(*) from utente where last_seen > NOW() - INTERVAL 7 DAY;')
+	x += "\n*Utenti attivi ultima settimana:* " + str(a[0][0]) + "\n\n"
+	"""
+	a = exFetch('select utente.nick , universita.corso, utente.anno, utente.messaggi, utente.last_seen, utente.oggi, utente.domani from utente join percorso on utente.curricula_id  = percorso.ID join universita on universita.ID = percorso.id_universita order by last_seen DESC;')
+	x += "nick | corso | anno | msg | last_seen | oggi | domani\n\n"
+	for i in range(len(a)):
+		for j in range(len(a[i])):
+			x+= str(a[i][j])
+			x+=" | "
+		x +="\n"
 	return x
 
 
@@ -226,19 +209,7 @@ def updateLast_seen(chat_id):
 
 
 def updateNickname(chat_id, nickname):
-#	exCommit("update utente set nick = '" + str(nickname).replace("'", " ").replace("\"", " ") + "' where  chat_id =" + str(chat_id))
-#	return
-#	Con questo fix non dovrebbe essere grieffabile
-	mycursor = mydb.cursor()
-	command = """
-			UPDATE utente
-			SET nick = %s
-			WHERE chat_id = %s;
-	"""
-	print(command)
-	vals = (str(nickname), int(chat_id))
-	mycursor.execute(command, vals)
-	mydb.commit()
+	exCommit("update utente set nick = '" + str(nickname) + "' where  chat_id =" + str(chat_id))
 
 def getSchedules():
 	table = exFetch('select chat_id, oggi, domani from utente')
@@ -281,27 +252,9 @@ def getUrl(chat_id):
         if("2cycle" in url):
                 time = "/timetable"
 
-        if("1cycle" in url):
-                time = "/timetable"
-
-        if("singlecycle" in url):
-                time = "/timetable"
         res = url + time + "/@@orario_reale_json?anno=" + str(year) + "&curricula=" + curricula
         #res += "&start=" + start + "&end=" + end + "\""
         print(res)
         return res
 
 
-
-def testUrl():
-	import os,json
-	sql = "select url from universita"
-	url = exFetch(sql)
-	for i in url:
-		time = "/orario-lezioni"
-		if("cycle" in url):
-			time = "/timetable"
-		a = (i[0]+time+"/@@orario_reale_json?anno=")
-		print(a)
-		cmd = "curl \"" + a
-		enc = json.load(os.popen(cmd))
